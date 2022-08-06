@@ -1,3 +1,6 @@
+"""
+    Function that merge two string, passed by parameter and output a merged string
+"""
 def new_password(a,b):
     cadena = ''
     c = 0
@@ -14,6 +17,7 @@ def new_password(a,b):
 if __name__ == '__main__':
     new_password('cat', 'rabbit')
 
+#Example of input and output
 #input a='cat' b='rabbit'
 #output craatbbit
 

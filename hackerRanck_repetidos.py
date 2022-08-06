@@ -1,3 +1,7 @@
+"""
+ Function that returns how many letter are repeted in the string 
+"""
+
 def print_repetido(name):
     # Use a breakpoint in the code line below to debug your script.
     l = list(name)
@@ -25,5 +29,6 @@ print(cadena)
 if __name__ == '__main__':
     print_repetido('abbcc')
 
+#example of intput and output
 #input abbcc
 #output ab2c2
